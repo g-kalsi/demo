@@ -1,0 +1,42 @@
+hr {
+    border: none;
+    border-top: 1px solid rgb(0, 0, 0);
+    color: #fff;
+    background-color: #fff;
+    height: 1px;
+    width: 30%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  div {
+      border: 2px solid black;
+      margin: 20px;
+      background-color: #fffeee;
+  }
+  div .aboutMe {
+    background-color: #e3e3e3;
+  }
+  p {
+      text-align: justify;
+      margin: 5px;
+  }
+  
+  body {
+      background-color: #faf2e4;
+      margin: 0 10%;
+      font-family: sans-serif;
+      text-align: center;    
+  }
+      img {
+          display: block;
+          margin-top: 25px;
+          margin-left: auto;
+          margin-right: auto;
+          width: 12%;
+          height: 18%;
+          border: 3px solid yellowgreen;
+      }h1 {
+      text-align: center;
+      margin-top: 30px;
+      }
